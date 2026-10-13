@@ -1,0 +1,10 @@
+{
+  "name": "@mu/directives",
+  "type": "module",
+  "version": "0.7.1",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "main": "./index.js"
+}
